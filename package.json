@@ -19,5 +19,13 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "node-fetch": "^2.6.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yannisalexiou/ees-announcements-scraper-v2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yannisalexiou/ees-announcements-scraper-v2/issues"
+  },
+  "homepage": "https://github.com/yannisalexiou/ees-announcements-scraper-v2#readme"
 }
