@@ -1,0 +1,23 @@
+{
+  "name": "ees-announcements-scraper-v2",
+  "version": "1.0.0",
+  "description": "Scraper that gets the announcements from EES postgraduate programme of NTUA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Scraper",
+    "ees",
+    "ntua",
+    "athens",
+    "greece",
+    "announcements"
+  ],
+  "author": "Yannis Alexiou",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^2.6.9"
+  }
+}
