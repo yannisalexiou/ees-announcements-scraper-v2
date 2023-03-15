@@ -2,7 +2,7 @@
 
 Scraper that gets the announcements from EES postgraduate programme of NTUA.
 
-## Simple Description
+## Description
 A Node.js package that scraps the **new** [EES site](https://technoeconomics.epu.ntua.gr/el/node/49) and retrieve the announcements of the programme.
 This package is quite useful for thesis work or other academic projects.
 
