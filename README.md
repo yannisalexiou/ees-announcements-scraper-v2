@@ -16,9 +16,9 @@ npm install --save ees-announcements-scraper-v2
 
 Then, require the package and use it like so:
 ```javascript
-const eesScraper = require('ees-announcements-scraper');
+const eesScraperV2 = require('ees-announcements-scraper-v2');
 
-var eesAnnouncements = eesScraper.getAnnouncements();
+var eesAnnouncements = eesScraperV2.getDetailedAnnouncements();
 
 eesAnnouncements.then(function (results) {
   console.log("eesAnnouncements", results);
